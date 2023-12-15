@@ -1,0 +1,59 @@
+{
+  "manifest_version": 3,
+  "name": "Shortcut Tabs",
+  "version": "1.0.4",
+  "short_name": "Shortcut Tabs",
+  "description": "Perform tab-related actions using customizable keyboard shortcuts.",
+  "icons": {
+    "16": "/assets/icon16.png",
+    "32": "/assets/icon32.png",
+    "48": "/assets/icon48.png",
+    "128": "/assets/icon128.png"
+  },
+  "background": {
+    "service_worker": "/scripts/main.js"
+  },
+  "action": {
+    "default_popup": "/pages/popup.html",
+    "default_icon": {
+      "16": "/assets/icon16.png",
+      "32": "/assets/icon32.png",
+      "48": "/assets/icon48.png",
+      "128": "/assets/icon128.png"
+    }
+  },
+  "commands": {
+    "01-pin": {
+      "description": "Pin/unpin the current tab",
+      "suggested_key": {
+        "default": "Ctrl+Insert",
+        "mac": "MacCtrl+Insert",
+        "windows": "Ctrl+Insert"
+      }
+    },
+    "02-next": {
+      "description": "Switch to the next tab (right)",
+      "suggested_key": {
+        "default": "Ctrl+Right",
+        "mac": "MacCtrl+Right",
+        "windows": "Ctrl+Right"
+      }
+    },
+    "03-previous": {
+      "description": "Switch to the previous tab (left)",
+      "suggested_key": {
+        "default": "Ctrl+Left",
+        "mac": "MacCtrl+Left",
+        "windows": "Ctrl+Left"
+      }
+    },
+    "04-group": {
+      "description": "Add/remove the current tab from a tab group",
+      "suggested_key": {
+        "default": "Ctrl+Period",
+        "mac": "MacCtrl+Period",
+        "windows": "Ctrl+Period"
+      }
+    }
+  }
+}
