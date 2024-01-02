@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Shortcut Tabs",
   "version": "1.0.4",
-  "short_name": "Shortcut Tabs",
+  "short_name": "ShortcutTabs",
   "description": "Perform tab-related actions using customizable keyboard shortcuts.",
   "icons": {
     "16": "/assets/icon16.png",
