@@ -4,11 +4,11 @@ Shortcut Tabs is a utility browser extension for quick tab management. Easily sw
 
 ![Popup](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/popup.PNG) 
 
-[Features](#features)
-[Installation](#installation)
-[Development Setup](#development-setup)
-[Screenshots](#screenshots)
-[Compatibility](#compatibility)
+[Features](#features)  
+[Installation](#installation)  
+[Development Setup](#development-setup)  
+[Screenshots](#screenshots)  
+[Compatibility](#compatibility)  
 
 ## Features
 
@@ -16,6 +16,14 @@ Shortcut Tabs is a utility browser extension for quick tab management. Easily sw
 - Switch to the next tab (right) - Ctrl + Right Arrow
 - Switch to the previous tab (left) - Ctrl + Left Arrow
 - Add/Remove current tab from tab group - Ctrl + Period
+
+## Installation
+
+- Download the extension for Chrome (Chrome Web Store)  - []
+OR
+- Download the extension for Edge (Edge Add-ons) - []
+
+- Configure your preferred keyboard shortcuts using extension settings.
 
 ## Development Setup
 
