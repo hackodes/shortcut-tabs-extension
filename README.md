@@ -40,7 +40,7 @@ git clone https://github.com/hackodes/shortcut-tabs-extension.git .
 
 ## Screenshots
 
-![Switch tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/popup.PNG) 
+![Switch tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/switch_tabs.png) 
 ![Pin tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/pin_tabs.png) 
 ![Group tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/group_tabs.png) 
 
