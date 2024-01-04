@@ -14,10 +14,12 @@ Shortcut Tabs is a utility browser extension for quick tab management. Easily sw
 ## Installation
 
 - **For Chrome:**
-- - Download the extension from the [Chrome Web Store](#)  
+Download the extension from the [Chrome Web Store](#)  
+
 **OR**  
+
 - **For Edge:**
-- - Download the extension from [Edge Add-ons](#)  
+Download the extension from [Edge Add-ons](#)  
 
 - Configure your preferred keyboard shortcuts using extension settings.
 
