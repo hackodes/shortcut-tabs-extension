@@ -4,12 +4,6 @@ Shortcut Tabs is a utility browser extension for quick tab management. Easily sw
 
 ![Popup](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/popup.PNG) 
 
-[Features](#features)  
-[Installation](#installation)  
-[Development Setup](#development-setup)  
-[Screenshots](#screenshots)  
-[Compatibility](#compatibility)  
-
 ## Features
 
 - Pin/unpin the current tab - Ctrl + Insert
