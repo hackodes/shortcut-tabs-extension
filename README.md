@@ -2,7 +2,7 @@
 
 Shortcut Tabs is a utility browser extension for quick tab management. Easily switch between tabs, pin or unpin tabs and create tab groups using customizable keyboard shortcuts. This extension requires no special permissions.
 
-![Popup](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/popup.PNG) 
+![Popup](https://github.com/hackodes/shortcut-tabs-extension/blob/main/assets/screenshots/popup.PNG) 
 
 ## Features
 
@@ -23,7 +23,7 @@ cd shortcut-tabs-extension
 - Clone this repository to get the source files
 
 ```
-git clone https://github.com/hackodes/shortcut-tabs-extension.git .
+git clone https://github.com/hackodes/shortcut-tabs-extension.git
 ```
 
 - Load it as an unpacked extension in your installed extensions settings within the browser.
@@ -32,9 +32,9 @@ git clone https://github.com/hackodes/shortcut-tabs-extension.git .
 
 ## Screenshots
 
-![Switch tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/switch_tabs.png) 
-![Pin tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/pin_tabs.png) 
-![Group tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/dev/assets/screenshots/group_tabs.png) 
+![Switch tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/main/assets/screenshots/switch_tabs.png) 
+![Pin tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/main/assets/screenshots/pin_tabs.png) 
+![Group tabs](https://github.com/hackodes/shortcut-tabs-extension/blob/main/assets/screenshots/group_tabs.png) 
 
 ## Compatibility
 
